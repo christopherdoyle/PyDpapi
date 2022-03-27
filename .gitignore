@@ -1,0 +1,7 @@
+*.pytest_cache
+*.pyc
+*.egg-info
+cmake-*
+build/
+.idea/
+*~
